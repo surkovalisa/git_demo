@@ -5,5 +5,4 @@ second
 fourth
 test for git gui
 
-
-this is the content for learning branching and merge
+this is the content for learning conflicts
