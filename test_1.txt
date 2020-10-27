@@ -5,7 +5,5 @@ second
 fourth
 test for git gui
 
-hello! how are you?
--------------------
 
-this is the content for learning branching
+this is the content for learning branching and merge
