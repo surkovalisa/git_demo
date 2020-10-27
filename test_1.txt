@@ -7,3 +7,4 @@ test for git gui
 
 
 this is the content for learning branching and merge
+and now! let's learning conflicts (in feature)
