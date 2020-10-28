@@ -10,3 +10,5 @@ this is the content for learning conflicts
 this is the content for learning branching and merge
 and now! let's learning conflicts (in feature)
 
+content for learning tags
+
